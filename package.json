@@ -1,0 +1,12 @@
+{
+  "name": "fundraiseup_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node ./server.js",
+    "client": "node ./client.js"
+  },
+  "author": "Sergey Vlasov",
+  "license": "ISC"
+}
