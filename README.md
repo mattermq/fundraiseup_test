@@ -1,4 +1,4 @@
-### Fundraiseup Test Task
+### Fundraise Up Test Task
 
 Запуск **сервера** - `npm run server`
 
